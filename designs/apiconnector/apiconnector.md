@@ -22,15 +22,12 @@ First step is for user to upload a swagger file either via url or file upload.
 1. **Validation Error**: If url or file uploaded isn't a supported swagger type, then user will get an error message in form on inline notification. Won't be triggered until user selects "next" button.
 1. Input field will be highlighted in red if error occurs.
 
-## General Connector Info
+## Review Swagger Actions
 
-Next step is for user to review general info of swagger
+![Image of choosing connection](img/reviewswaggerfile.png)
 
-![Image of choosing connection](img/generalconnectorinfo.png)
-
-1. User must upload an icon for connector. If no icon is uploaded, will use a default icon.
-1. General info will be auto-populated from swagger file. User can update info if they wish.
-1. Select "next" to move to next step
+1. User can review a summary of the actions associated with the swagger file in this step.
+1. Select 'Next" button to move onto next step.
 
 ## Security
 
@@ -38,16 +35,24 @@ Next step is for user to review general info of swagger
 
 ![Image of choosing connection](img/security.png)
 
-1. User selects authentication type via a list of options in Dropdown
-1. For basic security, user creates a username and password.
+1. User selects authentication type via a list of options
+
+![Image of choosing connection](img/securityconfigure.png)
+
+1. When selecting a radio button, progressive disclosure will review appropriate fields user needs to fill out for each authentication type.
 1. Select "next" button when done. Will be disabled until fields are filled in.
 
-## Review Actions
 
-![Image of choosing connection](img/reviewactions.png)
+## General Connector Info
 
+The last step is for user to review general info of swagger file.
+
+![Image of choosing connection](img/generalconnecterinfo.png)
+
+1. User must upload an icon for connector. If no icon is uploaded, will use a default icon.
+1. General info will be auto-populated from swagger file. User can update info if they wish.
+1. Select "next" to move to next step
 1. At this step the user can complete the workflow and select "create connector" in toolbar.
-1. User can review the actions associated with the swagger file in this step.
 
 ## API Connector List
 
