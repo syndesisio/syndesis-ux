@@ -1,7 +1,7 @@
 {
-  "name": "rh-uxd",
-  "version": "0.6.0",
-  "description": "Red Hat User Experience Design",
+  "name": "syndesis-ux",
+  "version": "0.1.0",
+  "description": "Red Hat User Experience Design - Syndesis UX Designs",
   "main": "index.js",
   "directories": {
     "doc": "docs"
@@ -15,11 +15,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rh-uxd/design-tracker-template.git"
+    "url": "https://github.com/syndesisio/syndesis-ux.git"
   },
   "author": "RHUXD",
   "bugs": {
-    "url": "https://github.com/rh-uxd/design-tracker-template/issues"
+    "url": "https://github.com/syndesisio/syndesis-ux/issues"
   },
   "devDependencies": {
     "gulp": "3.9.1",
