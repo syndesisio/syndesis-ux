@@ -1,0 +1,36 @@
+{
+  "name": "syndesis-ux",
+  "version": "0.1.0",
+  "description": "Red Hat User Experience Design - Syndesis UX Designs",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "publish-travis": "master _site",
+    "refresh": "gulp cleanVendors && gulp",
+    "bundle": "bundle update",
+    "reinstall": "rimraf node_modules && npm install && gulp cleanVendors && gulp",
+    "initialize": "gem install bundler && bundle install && npm install && gulp && jekyll build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/syndesisio/syndesis-ux.git"
+  },
+  "author": "RHUXD",
+  "bugs": {
+    "url": "https://github.com/syndesisio/syndesis-ux/issues"
+  },
+  "devDependencies": {
+    "gulp": "3.9.1",
+    "gulp-notify": "3.2.0",
+    "del": "3.0.0",
+    "rimraf": "2.6.2"
+  },
+  "dependencies": {
+    "bootstrap-sass": "3.3.7",
+    "font-awesome": "4.7.0",
+    "jquery": "3.2.1",
+    "patternfly": "3.37.0"
+  }
+}

@@ -1,2 +1,24 @@
 theme: jekyll-theme-slate
-baseurl: /syndesis-ux
+name: Syndesis UX Design Tracker
+markdown: kramdown
+sass:
+    style: compressed
+exclude: [
+    "deploy",
+    "gemfile",
+    "Gemfile.lock",
+    "package.json",
+    "gulpfile.js",
+    "node_modules",
+    "_site"
+    ]
+collections:
+    documents_collection:
+        output: true
+        permalink: /:collection/:name
+        defaults:
+        scope:
+            path: "./src/docs"
+            type: documents
+        values:
+        layout: page
