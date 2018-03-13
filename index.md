@@ -1,6 +1,6 @@
 ---
 layout: designs
-title: Syndesis-UX 
+title: Syndesis UX Design Tracker
 navbar_active: home
 relative_path: ./
 ---
