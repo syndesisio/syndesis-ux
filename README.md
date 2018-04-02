@@ -4,7 +4,7 @@ Design resources for the [Syndesis](https://github.com/syndesisio/syndesis) proj
 
 ## Installation
 
-| This installation requires that you have Ruby, Node, Gem, Jekyll and Gulp installed. You can find a list of dependecies with versions here: [Design Tracker Dependencies](https://github.com/rh-uxd/design-tracker-template/wiki/Dependencies)
+This installation requires that you have Ruby, Node, Gem, Jekyll and Gulp installed. You can find a list of dependecies with versions here: [Design Tracker Dependencies](https://github.com/rh-uxd/design-tracker-template/wiki/Dependencies)
 
 1. Fork this repository
 1. Rename as desired (we recommend with UX in the name)
