@@ -6,9 +6,7 @@ Design resources for the [Syndesis](https://github.com/syndesisio/syndesis) proj
 
 This installation requires that you have Ruby, Node, Gem, Jekyll and Gulp installed. You can find a list of dependecies with versions here: [Design Tracker Dependencies](https://github.com/rh-uxd/design-tracker-template/wiki/Dependencies)
 
-1. Fork this repository
-1. Rename as desired (we recommend with UX in the name)
-1. Clone to your local machine
+1. Clone this repo to your local machine
 1. With Node, Gulp, Ruby, Gem and Jekyll already installed, run `npm run initialize`
 1. Start with `jekyll serve`
 1. Code away!
