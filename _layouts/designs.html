@@ -5,17 +5,19 @@
     </style>
     <!-- Toolbar -->
     {% include design-toolbar.html %}
-    <section>
-      <div class="container-fluid">
-        <div class="col-sm-12">
-          <div class="col-sm-5">
-            <h1>{% if page.title %}{{ page.title }}{% endif %}</h1>
-          </div>
-          {% include design-legend.html %}
+    <section class="container-fluid">
+      <div class="row">
+        <div class="col-sm-6">
+          <h1>{% if page.title %}{{ page.title }}{% endif %}</h1>
         </div>
+        {% if page.navbar_active == 'home' %}
+          {% include design-legend.html %}
+        {% endif %}
       </div>
-      <div class="container-fluid">
-        {{ content }}
+      <div class="row">
+        <div class="col-xs-12">
+          {{ content }}
+        </div>
       </div><!-- /.container -->
     </section>
     <script>
