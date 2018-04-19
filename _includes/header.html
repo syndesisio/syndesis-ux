@@ -18,9 +18,11 @@
     <script src="{{ page.relative_path }}assets/js/vendor/patternfly.min.js"></script>
     {% if page.navbar_active == "home" %}
     <!-- Site JS -->
+    <script src="{{ page.relative_path }}assets/js/common.js"></script>
+    <script src="{{ page.relative_path }}assets/js/tableMarkup.js"></script>
+    <script src="{{ page.relative_path }}assets/js/expandRows.js"></script>
     <script src="{{ page.relative_path }}assets/js/designSearch.js"></script>
     <script src="{{ page.relative_path }}assets/js/designSort.js"></script>
-    <script src="{{ page.relative_path }}assets/js/expandRows.js"></script>
     {% endif %}
   </head>
   <body>

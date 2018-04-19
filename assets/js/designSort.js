@@ -96,3 +96,12 @@ function GetDateSortingKey(format,text) {
   if( y < 100 ) { y = parseInt(y) + 2000; }
   return "" + String(y) + "" + String(m) + "" + String(d) + "";
 } // function GetDateSortingKey()
+
+// collapse expanded rows on sort
+$(function() {
+  $(document).on('click', '.sort', function(e) {
+    $('.open').each(function() {
+      collapseRow(getParentRow($(this)));
+    });
+  })
+})

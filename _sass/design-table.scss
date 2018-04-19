@@ -1,0 +1,29 @@
+.designTable {
+  .nested {
+    td:first-child {
+      padding-left: 3em;
+    }
+  }
+
+  td {
+    &:first-child {
+      padding-left: 1.5em;
+      position: relative;
+
+      .toggle {
+        position: absolute;
+        left: .5em;
+        top: 2px;
+        width: 1em;
+
+        &::after {
+          content: '+';
+        }
+        
+        &.open::after {
+          content: '\2013';
+        }
+      }
+    }
+  }
+}
