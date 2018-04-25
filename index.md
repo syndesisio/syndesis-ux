@@ -8,11 +8,11 @@ relative_path: ./
 | <a href="javascript:SortTable(0);" id="designTableTitle" class="sort">Design</a> | <a href="javascript:SortTable(1);" id="designTableType" class="sort">Type</a> | <a href="javascript:SortTable(2);" id="designTableDesigner" class="sort">Designer</a> | <a href="javascript:SortTable(3);" id="designTableStatus" class="sort">Status<a/> | <a href="javascript:SortTable(4, 'D', 'mdy');" id="designTableUpdate" class="sort">Last Updated</a> | <span id="designTableWILinks">Work Item Link</span>
 | --- | --- | --- | --- | --- | --- | ---
 | Add to Integration - combine step & connection| InVision design | sjcox | Needs Review | | [Syndesis GitHub Issue 1830](https://github.com/syndesisio/syndesis/issues/1830)
-| <a href="https://redhat.invisionapp.com/share/PWH14PWMCXE">V2 - Add to Integration</a> | | | V2 | 04/24/2018 |
-| <a href="https://redhat.invisionapp.com/share/EWGS7DL3D68">V1 - Add to Integration</a> | | | V1 | 04/10/2018 |
+| <a href="https://redhat.invisionapp.com/share/PWH14PWMCXE">Add to Integration</a> | | | Version 2 | 04/24/2018 |
+| <a href="https://redhat.invisionapp.com/share/EWGS7DL3D68">Add to Integration</a> | | | Version 1 | 04/10/2018 |
 | Integration upgrade | invision design | dongniwang | Needs Review | 04/09/2018 | [Syndesis Github Issue 1128](https://github.com/syndesisio/syndesis/issues/1128)
-| <a href="https://redhat.invisionapp.com/share/TMHF3EF9P3H">V2 - Integration upgrade</a> | | | V2 | 04/24/2018 |
-| <a href="https://redhat.invisionapp.com/share/cqgr6xbvf2b#/screens">V1 - Integration upgrade</a> | | | V1  | 04/09/2018 |
+| <a href="https://redhat.invisionapp.com/share/TMHF3EF9P3H">Integration upgrade</a> | | | Version 2 | 04/24/2018 |
+| <a href="https://redhat.invisionapp.com/share/cqgr6xbvf2b#/screens">Integration upgrade</a> | | | Version 1  | 04/09/2018 |
 | <a href="https://github.com/syndesisio/syndesis/blob/master/ux/designs/technical_extensions/tech_ext.md">Technical Extension</a> | UX Markdown File | dongniwang | UXD Verified | 11/17/2017 | [Syndesis GitHub Issue 124](https://github.com/syndesisio/syndesis-project/issues/124)
 | <a href="https://github.com/syndesisio/syndesis/blob/master/ux/designs/navigation/navigation_breadcrumb_integration.md">Integration Breadcrumb</a> | UX Markdown File | dongniwang | Needs Review | 11/15/2017 | [Syndesis Github Issue 39](https://github.com/syndesisio/syndesis-ux/issues/39) and [939](https://github.com/syndesisio/syndesis-ux/issues/939)
 | <a href="https://github.com/syndesisio/syndesis/blob/master/ux/designs/support-page/support-page.md">Support Page</a> | UX Markdown File | dongniwang | UXD Verified | 11/15/2017 | [Syndesis GitHub Issue 334](https://github.com/syndesisio/syndesis/issues/334)

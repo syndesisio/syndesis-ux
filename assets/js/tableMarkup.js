@@ -24,8 +24,8 @@ $(function() {
       text.match(/^In Progress$/i) && $cell.addClass('status light-blue');
       text.match(/^Not Yet Started$/i) && $cell.addClass('status purple');
 
-      if ($cell.is(':first-child')) {
-        if ($cell.text().match(/^v[0-9]* - /i)) {
+      if ($cell.is(':nth-child(4)')) {
+        if ($cell.text().match(/^version [0-9]*$/i)) {
           if (!inNested) {
             // add toggle button
             $row.prev('tr').find('td').first().prepend('<a role="button" class="toggle"></a>');
