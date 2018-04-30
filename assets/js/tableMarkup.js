@@ -28,7 +28,8 @@ $(function() {
         if ($cell.text().match(/^version [0-9]*$/i)) {
           if (!inNested) {
             // add toggle button
-            $row.prev('tr').find('td').first().prepend('<a role="button" class="toggle"></a>');
+            $row.prev('tr').find('td').first().wrapInner('<a role="button" class="toggle"></a>');
+            //prepend('<a role="button" class="toggle"></a>');
             expandRowsArr[mainRowID] = '';
             inNested = true;
           }

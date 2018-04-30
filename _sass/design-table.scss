@@ -11,12 +11,11 @@
       position: relative;
 
       .toggle {
-        position: absolute;
-        left: .5em;
-        top: 2px;
-        width: 1em;
-
         &::after {
+          position: absolute;
+          left: .5em;
+          top: 2px;
+          width: 1em;
           content: '+';
         }
         
