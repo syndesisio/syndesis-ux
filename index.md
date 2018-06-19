@@ -7,7 +7,9 @@ relative_path: ./
 
 | <a href="javascript:SortTable(0);" id="designTableTitle" class="sort">Design</a> | <a href="javascript:SortTable(1);" id="designTableStatus" class="sort">Status<a/> | <a href="javascript:SortTable(1);" id="designTableType" class="sort">Type</a> | <a href="javascript:SortTable(3);" id="designTableDesigner" class="sort">Designer</a> | <a href="javascript:SortTable(4, 'D', 'mdy');" id="designTableUpdate" class="sort">Last Updated</a> | <span id="designTableWILinks">Work Item Link</span>
 | --- | --- | --- | --- | --- | --- | ---
-| [Better feedback for publishing integrations](https://redhat.invisionapp.com/share/BUL3FETVXDN) | Needs Review | InVision design | dongniwang | 06/15/2018 | [Syndesis GitHub issue 2343](https://github.com/syndesisio/syndesis/issues/2343)
+| Better feedback for publishing integrations | Needs Review | InVision design | dongniwang | 06/19/2018 | [Syndesis GitHub issue 2343](https://github.com/syndesisio/syndesis/issues/2343)
+| [Better feedback for publishing integrations](https://redhat.invisionapp.com/share/TULBPGUZ6RF) | Version 2 | | | 06/19/2018 |
+| [Better feedback for publishing integrations](https://redhat.invisionapp.com/share/BUL3FETVXDN) | Version 1 | | | 06/15/2018 |
 | [Connection Template](https://redhat.invisionapp.com/share/BGKJY9XCA6H) | Needs Review | InVision design | sjcox | 06/08/2018 | [Syndesis GitHub issue 2212](https://github.com/syndesisio/syndesis/issues/2212)
 | Add to Integration - combine step & connection | Needs Review | InVision design | sjcox | 06/01/2018 | [Syndesis GitHub Issue 1830](https://github.com/syndesisio/syndesis/issues/1830)
 | <a href="https://redhat.invisionapp.com/share/X6K0SKUWZFG">Add to Integration</a> | Version 3 | | | 06/01/2018 |
