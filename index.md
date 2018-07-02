@@ -10,7 +10,7 @@ relative_path: ./
 | Apicur.io Integration | Ready for Dev | InVision design | dongniwang | 06/28/2018 | [Syndesis GitHub Issue 2698](https://github.com/syndesisio/syndesis/issues/2698)
 | <a href="https://redhat.invisionapp.com/share/2EM4HUZD4MA">Apicur.io Integration</a> | Version 2 | | | 06/28/2018 | 
 | <a href="https://redhat.invisionapp.com/share/UJLWDYZZGCE">Apicur.io Integration</a> | Version 1 | | | 06/26/2018 | 
-| Better feedback for publishing integrations | Needs Review | InVision design | dongniwang | 06/19/2018 | [Syndesis GitHub issue 2343](https://github.com/syndesisio/syndesis/issues/2343)
+| Better feedback for publishing integrations | Ready for Dev | InVision design | dongniwang | 06/19/2018 | [Syndesis GitHub issue 2343](https://github.com/syndesisio/syndesis/issues/2343)
 | [Better feedback for publishing integrations](https://redhat.invisionapp.com/share/7ZLWFLLTRQC) | Version 2 | | | 06/19/2018 |
 | [Better feedback for publishing integrations](https://redhat.invisionapp.com/share/BUL3FETVXDN) | Version 1 | | | 06/15/2018 |
 | [Connection Template](https://redhat.invisionapp.com/share/BGKJY9XCA6H) | Needs Review | InVision design | sjcox | 06/08/2018 | [Syndesis GitHub issue 2212](https://github.com/syndesisio/syndesis/issues/2212)
