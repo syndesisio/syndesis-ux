@@ -18,7 +18,7 @@ relative_path: ./
 | <a href="https://redhat.invisionapp.com/share/X6K0SKUWZFG">Add to Integration</a> | Version 3 | | | 06/01/2018 |
 | <a href="https://redhat.invisionapp.com/share/PWH14PWMCXE">Add to Integration</a> | Version 2 | | | 04/24/2018 |
 | <a href="https://redhat.invisionapp.com/share/EWGS7DL3D68">Add to Integration</a> | Version 1 | | | 04/10/2018 |
-| Integration upgrade | Needs Review | invision design | dongniwang | 04/24/2018 | [Syndesis Github Issue 1128](https://github.com/syndesisio/syndesis/issues/1128)
+| Integration upgrade | Ready for Dev | invision design | dongniwang | 04/24/2018 | [Syndesis Github Issue 1128](https://github.com/syndesisio/syndesis/issues/1128)
 | <a href="https://redhat.invisionapp.com/share/TMHF3EF9P3H">Integration upgrade</a> | Version 2 | | | 04/24/2018 |
 | <a href="https://redhat.invisionapp.com/share/cqgr6xbvf2b#/screens">Integration upgrade</a> | Version 1 | | | 04/09/2018 |
 | <a href="https://github.com/syndesisio/syndesis/blob/master/ux/designs/technical_extensions/tech_ext.md">Technical Extension</a> | UXD Verified | UX Markdown File | dongniwang | 11/17/2017 | [Syndesis GitHub Issue 124](https://github.com/syndesisio/syndesis-project/issues/124)
