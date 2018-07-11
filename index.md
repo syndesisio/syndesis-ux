@@ -7,6 +7,7 @@ relative_path: ./
 
 | <a href="javascript:SortTable(0);" id="designTableTitle" class="sort">Design</a> | <a href="javascript:SortTable(1);" id="designTableStatus" class="sort">Status<a/> | <a href="javascript:SortTable(1);" id="designTableType" class="sort">Type</a> | <a href="javascript:SortTable(3);" id="designTableDesigner" class="sort">Designer</a> | <a href="javascript:SortTable(4, 'D', 'mdy');" id="designTableUpdate" class="sort">Last Updated</a> | <span id="designTableWILinks">Work Item Link</span>
 | --- | --- | --- | --- | --- | --- | ---
+| <a href="https://redhat.invisionapp.com/share/MAMPCU2CNFR">Data Preview Single Entry</a> | Ready for Dev | InVision design | dongniwang | 07/11/2018 | [AtlasMap GitHub Issue 455](https://github.com/atlasmap/atlasmap/issues/455)
 | <a href="https://redhat.invisionapp.com/share/Z7MM774PR8D">Simplified IVP</a> | Needs Review | InVision design | sjcox | 07/05/2018 | [Syndesis GitHub Issue 2962](https://github.com/syndesisio/syndesis/issues/2962)
 | Apicur.io Integration | Ready for Dev | InVision design | dongniwang | 06/28/2018 | [Syndesis GitHub Issue 2698](https://github.com/syndesisio/syndesis/issues/2698)
 | <a href="https://redhat.invisionapp.com/share/2EM4HUZD4MA">Apicur.io Integration</a> | Version 2 | | | 06/28/2018 | 
