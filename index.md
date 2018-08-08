@@ -7,6 +7,7 @@ relative_path: ./
 
 {% include sort-table-header.html -%}
 
+| [Integration Editor State Diagram](https://www.lucidchart.com/invitations/accept/d9d991da-1b97-4320-86ca-0bc00e171344) | In Progress | Lucid Chart design | sjcox | 08/08/2018 | [Syndesis GitHub Issue 2870](https://github.com/syndesisio/syndesis/issues/2870) |
 | Visual Distinction for Tech Preview Connectors | UXD Verified | GitHub Issue | sjcox & dongniwang | 07/26/2018 | [Syndesis GitHub Issue 3201](https://github.com/syndesisio/syndesis/issues/3201) |
 | <a href="https://redhat.invisionapp.com/share/WDN80PACBJU">Extension Enhancement</a> | Needs Updates | InVision design | dongniwang | 07/27/2018 | [Syndesis GitHub Issue 2808](https://github.com/syndesisio/syndesis/issues/2808) and [2809](https://github.com/syndesisio/syndesis/issues/2809) |
 | <a href="https://redhat.invisionapp.com/share/MAMPCU2CNFR">Data Preview Single Entry</a> | Ready for Dev | InVision design | dongniwang | 07/11/2018 | [AtlasMap GitHub Issue 455](https://github.com/atlasmap/atlasmap/issues/455) |
