@@ -18,6 +18,9 @@
         <li {% if page.navbar_active == "home" %} class="active"{% endif %}>
           <a href="{{ page.relative_path }}">Home</a>
         </li>
+        <li {% if page.navbar_active == "atlasmap" %} class="active"{% endif %}>
+          <a href="{{ page.relative_path }}atlasmap">Atlas Map</a>
+        </li>
         <li>
           <a href="https://github.com/syndesisio/syndesis/tree/master/ux/connections_icons">Icons</a>
         </li>

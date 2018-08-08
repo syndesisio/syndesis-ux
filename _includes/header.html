@@ -16,7 +16,7 @@
     <script src="{{ page.relative_path }}assets/js/vendor/bootstrap.min.js"></script>
     <!-- PatternFly JS -->
     <script src="{{ page.relative_path }}assets/js/vendor/patternfly.min.js"></script>
-    {% if page.navbar_active == "home" %}
+    {% if page.navbar_active contains 'home' or 'atlasmap') %}
     <!-- Site JS -->
     <script src="{{ page.relative_path }}assets/js/common.js"></script>
     <script src="{{ page.relative_path }}assets/js/tableMarkup.js"></script>
