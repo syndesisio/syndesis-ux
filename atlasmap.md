@@ -18,7 +18,7 @@ relative_path: ./
 | Source / Trget selecting action improvement | Ready for Dev | Github Issue | Anges | 07/17/2018  | Atlas Map GitHub Issue [503](https://github.com/atlasmap/atlasmap/issues/503) | Mapping flow |
 | Namespace list header icon alignment | Ready for Dev | Github Issue | Melody | 07/03/2018  | Atlas Map GitHub Issue [496](https://github.com/atlasmap/atlasmap/issues/496) | Behaviour |
 | 'Add new mapping' button behaviour | Ready for Dev | Github Issue | Melody | 07/03/2018  | Atlas Map GitHub Issue [498](https://github.com/atlasmap/atlasmap/issues/498) | Behaviour |
-| Error notification is not automatically hidden | UXD Verified | Github Issue | Melody | 07/03/2018  | Atlas Map GitHub Issue [498](https://github.com/atlasmap/atlasmap/issues/498) | Behaviour |
+| Error notification is not automatically hidden | UXD Verified | Github Issue | Melody | 07/03/2018  | Atlas Map GitHub Issue [491](https://github.com/atlasmap/atlasmap/issues/491) | Behaviour |
 | Clicking action improvement | Ready for Dev | Github Issue | Anges | 07/05/2018  | Atlas Map GitHub Issue [503](https://github.com/atlasmap/atlasmap/issues/503) | Behaviour | 
 | Editor setting button | Ready for Dev | GitHub Issue | Anges | 07/05/2018  | Atlas Map GitHub Issue [495](https://github.com/atlasmap/atlasmap/issues/495) | Behaviour  | 
 | Search alignment | Ready for Dev  | GitHub Issue | Anges | 07/05/2018  | Atlas Map GitHub Issue [490](https://github.com/atlasmap/atlasmap/issues/490) | Patternfly alignment|
