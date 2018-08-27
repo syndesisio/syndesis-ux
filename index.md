@@ -7,6 +7,7 @@ relative_path: ./
 
 {% include sort-table-header.html -%}
 
+| <a href="https://redhat.invisionapp.com/share/3CNPQLOKAEW">API Provider</a> | Needs Review | InVision design | dongniwang & sjcox | 08/27/2018 | [Syndesis GitHub Issue 3140](https://github.com/syndesisio/syndesis/issues/3140) |
 | [Integration Editor State Diagram](https://www.lucidchart.com/invitations/accept/d9d991da-1b97-4320-86ca-0bc00e171344) | In Progress | Lucid Chart design | sjcox | 08/08/2018 | [Syndesis GitHub Issue 2870](https://github.com/syndesisio/syndesis/issues/2870) |
 | Visual Distinction for Tech Preview Connectors | UXD Verified | GitHub Issue | sjcox & dongniwang | 07/26/2018 | [Syndesis GitHub Issue 3201](https://github.com/syndesisio/syndesis/issues/3201) |
 | <a href="https://redhat.invisionapp.com/share/WDN80PACBJU">Extension Enhancement</a> | Needs Updates | InVision design | dongniwang | 07/27/2018 | [Syndesis GitHub Issue 2808](https://github.com/syndesisio/syndesis/issues/2808) and [2809](https://github.com/syndesisio/syndesis/issues/2809) |
