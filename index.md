@@ -13,7 +13,7 @@ relative_path: ./
 | <a href="https://redhat.invisionapp.com/share/WDN80PACBJU">Extension Enhancement</a> | Needs Updates | InVision design | dongniwang | 07/27/2018 | [Syndesis GitHub Issue 2808](https://github.com/syndesisio/syndesis/issues/2808) and [2809](https://github.com/syndesisio/syndesis/issues/2809) |
 | <a href="https://redhat.invisionapp.com/share/MAMPCU2CNFR">Data Preview Single Entry</a> | Ready for Dev | InVision design | dongniwang | 07/11/2018 | [AtlasMap GitHub Issue 455](https://github.com/atlasmap/atlasmap/issues/455) |
 | <a href="https://redhat.invisionapp.com/share/Z7MM774PR8D">Simplified IVP</a> | UXD Verified | InVision design | sjcox | 07/05/2018 | [Syndesis GitHub Issue 2962](https://github.com/syndesisio/syndesis/issues/2962) |
-| Apicur.io Integration | Needs Review | InVision design | dongniwang | 07/30/2018 | [Syndesis GitHub Issue 2698](https://github.com/syndesisio/syndesis/issues/2698) and [3108](https://github.com/syndesisio/syndesis/issues/3108) |
+| Apicur.io Integration | UXD Verified | InVision design | dongniwang | 07/30/2018 | [Syndesis GitHub Issue 2698](https://github.com/syndesisio/syndesis/issues/2698) and [3108](https://github.com/syndesisio/syndesis/issues/3108) |
 | <a href="https://redhat.invisionapp.com/share/V7N923M4N2E">Apicur.io Integration</a> | Version 2.1 | | | 07/30/2018 | [Syndesis GitHub Issue 3108](https://github.com/syndesisio/syndesis/issues/3108) | Remove main breadcrumb with < Back |
 | <a href="https://redhat.invisionapp.com/share/2EM4HUZD4MA">Apicur.io Integration</a> | Version 2 | | | 06/28/2018 |  |
 | <a href="https://redhat.invisionapp.com/share/UJLWDYZZGCE">Apicur.io Integration</a> | Version 1 | | | 06/26/2018 |  |
