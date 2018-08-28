@@ -20,7 +20,7 @@ relative_path: ./
 | Better feedback for publishing integrations | Ready for Dev | InVision design | dongniwang | 06/19/2018 | [Syndesis GitHub issue 2343](https://github.com/syndesisio/syndesis/issues/2343) |
 | [Better feedback for publishing integrations](https://redhat.invisionapp.com/share/7ZLWFLLTRQC) | Version 2 | | | 06/19/2018 | |
 | [Better feedback for publishing integrations](https://redhat.invisionapp.com/share/BUL3FETVXDN) | Version 1 | | | 06/15/2018 | |
-| Connection Template | Needs Review | InVision design | sjcox | 07/12/2018 | [Syndesis GitHub issue 2212](https://github.com/syndesisio/syndesis/issues/2212) |
+| Connection Template | UXD Verified | InVision design | sjcox | 07/12/2018 | [Syndesis GitHub issue 2212](https://github.com/syndesisio/syndesis/issues/2212) |
 | [Connection Template](https://redhat.invisionapp.com/share/VZN4L63RS5D#/screens) | Version 3 | | | 07/20/2018 |  |
 | [Connection Template](https://redhat.invisionapp.com/share/NKMXKRVJG93) | Version 2 | | | 07/12/2018 |  |
 | [Connection Template](https://redhat.invisionapp.com/share/BGKJY9XCA6H) | Version 1 | | | 06/08/2018 |  |
