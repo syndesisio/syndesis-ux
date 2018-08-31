@@ -8,7 +8,7 @@ relative_path: ./
 {% include sort-table-header.html -%}
 
 
-| Mapping flow improvement (map/combine/seperate/repeating) | Ready for Dev  | InVision design | Melody | 08/14/2018  | Atlas Map GitHub Issue [488](https://github.com/atlasmap/atlasmap/issues/488), [294](https://github.com/atlasmap/atlasmap/issues/294),[244](https://github.com/atlasmap/atlasmap/issues/244) | Mapping flow, Group Mapping |
+| Mapping flow improvement (map/combine/seperate/repeating) | Ready for Dev  | InVision design | Melody | 08/14/2018  | Atlas Map GitHub Issue [488](https://github.com/atlasmap/atlasmap/issues/488), [294](https://github.com/atlasmap/atlasmap/issues/294) | Mapping flow, Group Mapping |
 | <a href="https://redhat.invisionapp.com/share/7RNJ944PFH9#/314527595_Mappingflow1">Mapping flow improvement-v2</a> | Version 2 | | | 08/14/2018 |  |
 | <a href="https://redhat.invisionapp.com/share/45NC8K8E69K#/314721090_Mappingflow">Mapping flow improvement-v1</a> | Version 1 | | | 07/13/2018 |  | |
 | <a href="https://redhat.invisionapp.com/share/BQMZW7N8CJV#/screens/309112230">Add transformation flow improvement</a> | Ready for Dev | Invision Design | Melody | 07/16/2018  | Atlas Map GitHub Issue [487](https://github.com/atlasmap/atlasmap/issues/487), [72](https://github.com/atlasmap/atlasmap/issues/72),| Transformation |
