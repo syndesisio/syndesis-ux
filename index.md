@@ -7,7 +7,10 @@ relative_path: ./
 
 {% include sort-table-header.html -%}
 
-| <a href="https://redhat.invisionapp.com/share/GHNTV6PJK32">Template Step</a> | Needs Review | InVision design | dongni wang | 8/30/2018 | [Syndesis GitHub Issue 3141](https://github.com/syndesisio/syndesis/issues/3141) |
+| Template Step | Needs Review | InVision design | dongniwang | 09/06/2018 | [Syndesis GitHub Issue 3141](https://github.com/syndesisio/syndesis/issues/3141) |
+| <a href="https://redhat.invisionapp.com/share/UYNXZ30MQ34">Template Step</a> | Version 3.1 | | | 09/06/2018 |  | Support Mustache only for 7.2  |
+| <a href="https://redhat.invisionapp.com/share/MKNX2N6SVE6">Template Step</a> | Version 3 | | | 09/05/2018 |  | Long term version |
+| <a href="https://redhat.invisionapp.com/share/GHNTV6PJK32">Template Step</a> | Version 2 | | | 08/30/2018 |  |
 | <a href="https://redhat.invisionapp.com/share/CBNWDY58AHG">API Provider</a> | Needs Review | InVision design | dongniwang & sjcox | 08/27/2018 | [Syndesis GitHub Issue 3140](https://github.com/syndesisio/syndesis/issues/3140) |
 | [Integration Editor State Diagram](https://www.lucidchart.com/invitations/accept/d9d991da-1b97-4320-86ca-0bc00e171344) | In Progress | Lucid Chart design | sjcox | 08/08/2018 | [Syndesis GitHub Issue 2870](https://github.com/syndesisio/syndesis/issues/2870) |
 | Visual Distinction for Tech Preview Connectors | UXD Verified | GitHub Issue | sjcox & dongniwang | 07/26/2018 | [Syndesis GitHub Issue 3201](https://github.com/syndesisio/syndesis/issues/3201) |
