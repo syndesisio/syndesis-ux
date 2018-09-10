@@ -13,7 +13,7 @@ relative_path: ./
 | <a href="https://redhat.invisionapp.com/share/GHNTV6PJK32">Template Step</a> | Version 2 | | | 08/30/2018 |  |
 | API Provider | Ready for Dev | InVision design | dongniwang & sjcox | 09/05/2018 | [Syndesis GitHub Issue 3140](https://github.com/syndesisio/syndesis/issues/3140) |
 | <a href="https://redhat.invisionapp.com/share/CBNWDY58AHG">API Provider</a> | Version 6 | | | 09/05/2018 |  | Create integration flow with API provider  |
-| <a href="https://redhat.invisionapp.com/share/4JNR7J5DMNY">API Provider</a> | Version Integration List & Details view | | | 09/05/2018 |  | Guidance for the integration list page and the integration detail page |
+| <a href="https://redhat.invisionapp.com/share/4JNR7J5DMNY">API Provider</a> | Version 6: Integration List & Details view | | | 09/05/2018 |  | Guidance for the integration list page and the integration detail page |
 | [Integration Editor State Diagram](https://www.lucidchart.com/invitations/accept/d9d991da-1b97-4320-86ca-0bc00e171344) | In Progress | Lucid Chart design | sjcox | 08/08/2018 | [Syndesis GitHub Issue 2870](https://github.com/syndesisio/syndesis/issues/2870) |
 | Visual Distinction for Tech Preview Connectors | UXD Verified | GitHub Issue | sjcox & dongniwang | 07/26/2018 | [Syndesis GitHub Issue 3201](https://github.com/syndesisio/syndesis/issues/3201) |
 | <a href="https://redhat.invisionapp.com/share/WDN80PACBJU">Extension Enhancement</a> | Needs Updates | InVision design | dongniwang | 07/27/2018 | [Syndesis GitHub Issue 2808](https://github.com/syndesisio/syndesis/issues/2808) and [2809](https://github.com/syndesisio/syndesis/issues/2809) |
