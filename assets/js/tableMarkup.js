@@ -25,7 +25,7 @@ $(function() {
       text.match(/^Not Yet Started$/i) && $cell.addClass('status purple');
 
       if ($cell.is(':nth-child(2)')) {
-        if ($cell.text().match(/^version .*$/i)) {
+        if ($cell.text().match(/^version .+$/i)) {
           if (!inNested) {
             // add toggle button
             $row.prev('tr').find('td').first().wrapInner('<a role="button" class="toggle"></a>');
