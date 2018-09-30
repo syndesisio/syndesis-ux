@@ -7,8 +7,10 @@ relative_path: ./
 
 {% include sort-table-header.html -%}
 
-
-| Mapping flow improvement (map/combine/seperate/repeating) | Ready for Dev  | InVision design | Melody | 08/14/2018  | Atlas Map GitHub Issue [488](https://github.com/atlasmap/atlasmap/issues/488), [294](https://github.com/atlasmap/atlasmap/issues/294),[244](https://github.com/atlasmap/atlasmap/issues/244) | Mapping flow, Group Mapping |
+|<a href="https://redhat.invisionapp.com/share/W2O9AZS8Y4G#/322055150_Design-Change1">Replace combine/separate mappings with ability to group source/target fields </a> | Needs Review | InVision design | Melody | 09/30/2018  | Atlas Map GitHub Issue [244](https://github.com/atlasmap/atlasmap/issues/244) | Group Mapping |
+| Provide tooltip to show FieldAtion Description|  Ready for Dev | Github Issue | Melody | 09/29/2018  | Atlas Map GitHub Issue [174](https://github.com/atlasmap/atlasmap/issues/174), [173](https://github.com/atlasmap/atlasmap/issues/173)| Transformation |
+| Improve the action to show mapped/unmapped fields|  Needs Review | Github Issue | Melody | 08/28/2018  | Atlas Map GitHub Issue [77](https://github.com/atlasmap/atlasmap/issues/77)| Mapping flow |
+| Mapping flow improvement (map/combine/seperate/repeating) | Ready for Dev  | InVision design | Melody | 08/14/2018  | Atlas Map GitHub Issue [488](https://github.com/atlasmap/atlasmap/issues/488), [294](https://github.com/atlasmap/atlasmap/issues/294)| Mapping flow|
 | <a href="https://redhat.invisionapp.com/share/7RNJ944PFH9#/314527595_Mappingflow1">Mapping flow improvement-v2</a> | Version 2 | | | 08/14/2018 |  |
 | <a href="https://redhat.invisionapp.com/share/45NC8K8E69K#/314721090_Mappingflow">Mapping flow improvement-v1</a> | Version 1 | | | 07/13/2018 |  | |
 | <a href="https://redhat.invisionapp.com/share/BQMZW7N8CJV#/screens/309112230">Add transformation flow improvement</a> | Ready for Dev | Invision Design | Melody | 07/16/2018  | Atlas Map GitHub Issue [487](https://github.com/atlasmap/atlasmap/issues/487), [72](https://github.com/atlasmap/atlasmap/issues/72),| Transformation |
