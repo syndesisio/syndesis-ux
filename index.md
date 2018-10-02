@@ -8,7 +8,7 @@ relative_path: ./
 {% include sort-table-header.html -%}
 
 | [Integration Import UX improvements](https://redhat.invisionapp.com/share/5DO1KTZVG4J#/screens) | In Progress | InVision design | dongniwang | 09/13/2018 | [Syndesis GitHub Issue 3581](https://github.com/syndesisio/syndesis/issues/3581) |
-| Template Step | Needs Review | InVision design | dongniwang | 09/06/2018 | [Syndesis GitHub Issue 3141](https://github.com/syndesisio/syndesis/issues/3141) |
+| Template Step | Ready for Dev | InVision design | dongniwang | 09/06/2018 | [Syndesis GitHub Issue 3141](https://github.com/syndesisio/syndesis/issues/3141) |
 | [Template Step](https://redhat.invisionapp.com/share/H5OCD55VUJQ) | Version 4 | | |10/01/2018 | [Syndesis GitHub Issue 3662](https://github.com/syndesisio/syndesis/issues/3662) | Layout update to resolve usability issues | 
 | [Template Step](https://redhat.invisionapp.com/share/UYNXZ30MQ34) | Version 3.1 | | | 09/06/2018 |  | Support Mustache only for 7.2  |
 | [Template Step](https://redhat.invisionapp.com/share/MKNX2N6SVE6) | Version 3 | | | 09/05/2018 |  | Long term version |
