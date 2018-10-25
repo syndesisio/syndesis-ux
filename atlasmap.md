@@ -28,5 +28,5 @@ relative_path: ./
 | Mapping panel unreset in look up mode | UXD Verified | GitHub Issue | Anges | 07/03/2018  | Atlas Map GitHub Issue [499](https://github.com/atlasmap/atlasmap/issues/499) | Bug | 
 | ‘Editor setting’ button | UXD Verified | GitHub Issue | Anges | 07/03/2018  | Atlas Map GitHub Issue [495](https://github.com/atlasmap/atlasmap/issues/495) | Bug | 
 | <a href="https://redhat.invisionapp.com/share/W4N2PN7JNV7#/321255058_Data_Prevew_Of_Collection">Data Preview of Collection</a> | Ready for Dev | InVision design | Anges | 09/21/2018  | Atlas Map GitHub Issue [531](https://github.com/atlasmap/atlasmap/issues/531) | Data Preview |
-| <a href="https://redhat.invisionapp.com/share/PYOQV7PRF7W#/327355283_Import-Export2">Improt/Export of Standalone</a> | Ready for Dev | InVision design | Anges | 10/21/2018  | Atlas Map GitHub Issue [617](https://github.com/atlasmap/atlasmap/issues/617#event-1897776229) | Improt/Export |
+
 ###### All markdown written using this [cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
