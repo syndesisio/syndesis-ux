@@ -7,6 +7,7 @@ relative_path: ./
 
 {% include sort-table-header.html -%}
 
+| [Import Export for Standalone](https://redhat.invisionapp.com/share/PYOQV7PRF7W#/327355259_Import-Export1) | Ready for Dev | InVision design | Anges | 10/21/2018  | Atlas Map GitHub Issue [617](https://github.com/atlasmap/atlasmap/issues/617) | Import Export |
 |[Replace combine/separate mappings with ability to group source/target fields](https://redhat.invisionapp.com/share/W2O9AZS8Y4G#/322055150_Design-Change1) | Needs Review | InVision design | Melody | 09/30/2018  | Atlas Map GitHub Issue [244](https://github.com/atlasmap/atlasmap/issues/244) | Group Mapping |
 | Provide tooltip to show FieldAtion Description | Ready for Dev | Github Issue | Melody | 09/29/2018  | Atlas Map GitHub Issue [174](https://github.com/atlasmap/atlasmap/issues/174), [173](https://github.com/atlasmap/atlasmap/issues/173)| Transformation |
 | [Data Preview of Collection](https://redhat.invisionapp.com/share/W4N2PN7JNV7#/321255058_Data_Prevew_Of_Collection) | Ready for Dev | InVision design | Anges | 09/21/2018  | Atlas Map GitHub Issue [531](https://github.com/atlasmap/atlasmap/issues/531) | Data Preview |
