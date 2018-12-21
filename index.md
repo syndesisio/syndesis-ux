@@ -7,6 +7,7 @@ relative_path: ./
 
 {% include sort-table-header.html -%}
 
+| [API Provider UX Enhancements](https://redhat.invisionapp.com/share/BHPQXBH6W8Y) | Needs Review | InVision design | dongniwang | 12/21/2018 | [Syndesis GitHub Issue 4120] (https://github.com/syndesisio/syndesis/issues/4120) |
 | [Integration Import UX improvements](https://redhat.invisionapp.com/share/5DO1KTZVG4J#/screens) | In Progress | InVision design | dongniwang | 09/13/2018 | [Syndesis GitHub Issue 3581](https://github.com/syndesisio/syndesis/issues/3581) |
 | Template Step | Ready for Dev | InVision design | dongniwang | 09/06/2018 | [Syndesis GitHub Issue 3141](https://github.com/syndesisio/syndesis/issues/3141) |
 | [Template Step](https://redhat.invisionapp.com/share/H5OCD55VUJQ) | Version 4 | | |10/01/2018 | [Syndesis GitHub Issue 3662](https://github.com/syndesisio/syndesis/issues/3662) | Layout update to resolve usability issues | 
