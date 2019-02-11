@@ -7,6 +7,7 @@ relative_path: ./
 
 {% include sort-table-header.html -%}
 
+| [Total Message Popover](https://github.com/syndesisio/syndesis/issues/4013) | Ready for Dev | GitHub Issue | dongniwang | 02/05/2019 | [Syndesis GitHub Issue 4013](https://github.com/syndesisio/syndesis/issues/4013) |
 | [Integration Environment Tagging](https://redhat.invisionapp.com/share/E9QCV528WVN) | Ready for Dev | InVision design | dongniwang | 02/05/2019 | [Syndesis GitHub Issue 4326](https://github.com/syndesisio/syndesis/issues/4326) |
 | [API Provider Collection Support - Split and Aggregate](https://redhat.invisionapp.com/share/JNQ9E1A4AVQ) | Ready for Dev | InVision design | dongniwang | 01/30/2019 | [Syndesis GitHub Issue 4312](https://github.com/syndesisio/syndesis/issues/4312) |
 | [API Provider UX Enhancements](https://redhat.invisionapp.com/share/BHPQXBH6W8Y) | Ready for Dev | InVision design | dongniwang | 12/21/2018 | [Syndesis GitHub Issue 4120](https://github.com/syndesisio/syndesis/issues/4120) |
