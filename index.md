@@ -7,6 +7,9 @@ relative_path: ./
 
 {% include sort-table-header.html -%}
 
+| Conditional Flow | Needs Review | InVision design | dongniwang | 04/26/2019 | [Syndesis GitHub Issue 5307](https://github.com/syndesisio/syndesis/issues/5307) |
+| [Conditional Flow](https://redhat.invisionapp.com/share/2ARQTCSHBWF) | Version 2 | | |04/26/2019 | [Syndesis GitHub Issue 5307](https://github.com/syndesisio/syndesis/issues/5307) | Changed from CBR to conditional flow, added ability to rearrange conditions | 
+| [Conditional Flow](https://redhat.invisionapp.com/share/6PRMJDXRCBN) | Version 1 | | |04/18/2019 | [Syndesis GitHub Issue 5307](https://github.com/syndesisio/syndesis/issues/5307) |
 | [Total Message Popover](https://github.com/syndesisio/syndesis/issues/4013) | Ready for Dev | GitHub Issue | dongniwang | 02/05/2019 | [Syndesis GitHub Issue 4013](https://github.com/syndesisio/syndesis/issues/4013) |
 | [Integration Environment Tagging](https://redhat.invisionapp.com/share/E9QCV528WVN) | Ready for Dev | InVision design | dongniwang | 02/05/2019 | [Syndesis GitHub Issue 4326](https://github.com/syndesisio/syndesis/issues/4326) |
 | [Integration Environment Tagging](https://redhat.invisionapp.com/share/36QTHNFFCUB) | Version 2 | InVision design | dongniwang | 03/04/2019 | [Syndesis GitHub Issue 4683](https://github.com/syndesisio/syndesis/issues/4683) | Seperate tag management |
