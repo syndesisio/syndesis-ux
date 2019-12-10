@@ -10,11 +10,9 @@ relative_path: ./
 | Data Virt Versioning| Ready for Dev  | Marvel design | Melody | 05/12/2019  |[TeiidTools 11992](https://issues.jboss.org/browse/ENTESB-11992)| Data virt details page version change |
 | [Version 2](https://docs.google.com/spreadsheets/d/1_sv9mFM8v1KqK3E9IquPzPhuo0ET7fT3sMlgaqmfBM0/edit?usp=sharing) | Version 2| Marvel Design| Melody |05/12/2019 | [TeiidTools 11992](https://issues.jboss.org/browse/ENTESB-11992) | |
 | [Version 1](https://docs.google.com/spreadsheets/d/1_sv9mFM8v1KqK3E9IquPzPhuo0ET7fT3sMlgaqmfBM0/edit?usp=sharing) | Version 1 | Marvel Design | Melody | 28/11/2019 | [TeiidTools 11992](https://issues.jboss.org/browse/ENTESB-11992) | |  |
-
 | Data Virt Details| Ready for Dev | Marvel Design | Melody | 06/12/2019  | [TeiidTools 11993](https://issues.jboss.org/browse/ENTESB-11993)| Data virt details page - version details desiign |
 | [Version 2](https://docs.google.com/spreadsheets/d/1_sv9mFM8v1KqK3E9IquPzPhuo0ET7fT3sMlgaqmfBM0/edit?usp=sharing) | Version 2| Marvel Design| Melody |10/12/2019 | [TeiidTools 11993](https://issues.jboss.org/browse/ENTESB-11993) |  |
 | [Version 1](https://docs.google.com/spreadsheets/d/1_sv9mFM8v1KqK3E9IquPzPhuo0ET7fT3sMlgaqmfBM0/edit?usp=sharing) | Version 1 | Marvel Design | Melody |28/11/2019 | [TeiidTools 11993](https://issues.jboss.org/browse/ENTESB-11993) |  |  |
-
 | [Data Virt Metrics](https://docs.google.com/spreadsheets/d/1_sv9mFM8v1KqK3E9IquPzPhuo0ET7fT3sMlgaqmfBM0/edit?usp=sharing) | Ready for Dev | Marvel Design | Melody | 06/12/2019 | [TeiidTools 11995](https://issues.jboss.org/browse/ENTESB-11995)| Data Vrit metrics desiign |
 | [Data Virt Multi select data of Creating a view](https://docs.google.com/spreadsheets/d/1_sv9mFM8v1KqK3E9IquPzPhuo0ET7fT3sMlgaqmfBM0/edit?usp=sharing) | Ready for Dev | Marvel Design | Anges | 06/12/2019  | [TeiidTools 11996](https://issues.jboss.org/browse/ENTESB-11996)| Multi select data when creating a view |
 | [Data Virt Manage CI/CD](https://docs.google.com/spreadsheets/d/1_sv9mFM8v1KqK3E9IquPzPhuo0ET7fT3sMlgaqmfBM0/edit?usp=sharing) | Ready for Dev | Marvel Design | Anges | 06/12/2019  | [TeiidTools 11994](https://issues.jboss.org/browse/ENTESB-11994)| CI/CD for Import and Export |
